@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'Ahlsell.Apim.Ecom.Functions.UserInfo'" />
-    <option name="defaultScopeName" value="Project 'Ahlsell.Apim.Ecom.Functions.UserInfo'" />
+    <option name="customScope" value="Project 'APIManagementTemplate'" />
+    <option name="defaultScopeName" value="Project 'APIManagementTemplate'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Ahlsell.Apim.Ecom.Functions.UserInfo'" />
-    <mask>*.cs</mask>
+    <option name="SEARCH_SCOPE" value="Project 'APIManagementTemplate'" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.js</mask>
     <mask>*.cshtml</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
